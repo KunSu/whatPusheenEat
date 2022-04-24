@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.ffa757aa.js",
-    "static/js/787.407aac3e.chunk.js": "/react-gh-pages/static/js/787.407aac3e.chunk.js",
-    "static/media/1.png": "/react-gh-pages/static/media/1.5aa562233ef38798d991.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.ffa757aa.js.map": "/react-gh-pages/static/js/main.ffa757aa.js.map",
-    "787.407aac3e.chunk.js.map": "/react-gh-pages/static/js/787.407aac3e.chunk.js.map"
+    "main.css": "/whatPusheenEat/static/css/main.073c9b0a.css",
+    "main.js": "/whatPusheenEat/static/js/main.30a113c6.js",
+    "static/js/787.407aac3e.chunk.js": "/whatPusheenEat/static/js/787.407aac3e.chunk.js",
+    "static/media/1.png": "/whatPusheenEat/static/media/1.5aa562233ef38798d991.png",
+    "index.html": "/whatPusheenEat/index.html",
+    "main.073c9b0a.css.map": "/whatPusheenEat/static/css/main.073c9b0a.css.map",
+    "main.30a113c6.js.map": "/whatPusheenEat/static/js/main.30a113c6.js.map",
+    "787.407aac3e.chunk.js.map": "/whatPusheenEat/static/js/787.407aac3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ffa757aa.js"
+    "static/js/main.30a113c6.js"
   ]
 }
